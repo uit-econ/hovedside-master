@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: "Samfunnsøkonomi"
     undertitle: "med datavitenskap"
-    text: "Bachelor"
+    text: "Master"
     button: 
     buttonlink: 
 
@@ -31,9 +31,7 @@ en: &DEFAULT_EN
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-r-project
-      - title: "Test test test"
-        desc: "Test st test stet"
-        icon: fab fa-angellist
+    
 
   portfolio:
     title: "Emner"
