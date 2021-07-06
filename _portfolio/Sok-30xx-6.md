@@ -1,6 +1,6 @@
 ---
 title: Sok-30xx-6 Atferd og insentiver
-subtitle: 15 STP
+subtitle: 10 STP
 image: https://raw.githubusercontent.com/uit-econ/hovedside-master/main/assets/img/Sok-30xx-6.jpg
 category: semester3
 
